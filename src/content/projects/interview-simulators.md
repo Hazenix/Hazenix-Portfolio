@@ -11,8 +11,8 @@ tech:
   - "RAG"
 links:
   github:
-    - "https://github.com/Hazehacker/java-backend-interview-simulator"
-    - "https://github.com/Hazehacker/ai-dev-interview-simulator"
+    - "https://github.com/Hazenix/backend-interview-simulator"
+    - "https://github.com/Hazenix/ai-dev-interview-simulator"
   demo: ""
 weight: 2
 current: true
@@ -119,13 +119,13 @@ ai-dev-interview-simulator/
 
 模拟真实中国大厂 Java 后端技术面试
 
-> 地址：https://github.com/Hazehacker/java-backend-interview-simulator
+> 地址：https://github.com/Hazenix/backend-interview-simulator
 
 ## AI Dev Interview Simulator
 
 专注于 Agent、RAG、大模型应用开发等 AI 新兴领域的面试模拟。实操编码题聚焦 Prompt 设计、ReAct 实现、MCP Server 设计等场景。
 
-> 地址：https://github.com/Hazehacker/ai-dev-interview-simulator
+> 地址：https://github.com/Hazenix/ai-dev-interview-simulator
 
 
 

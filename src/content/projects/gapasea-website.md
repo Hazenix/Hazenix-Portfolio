@@ -11,7 +11,7 @@ tech:
   - "CSS 3D"
   - "Responsive"
 links:
-  github: "https://github.com/Hazehacker/second-GapaSea"
+  github: ""
   demo: "https://gapasea.net.cn/"
 weight: 5
 current: true

@@ -8,7 +8,7 @@ tech:
   - "MySQL"
   - "Redis"
 links:
-  github: "https://github.com/Hazehacker/psi"
+  github: "https://github.com/Hazenix/psi"
   demo: ""
 weight: 4
 current: true

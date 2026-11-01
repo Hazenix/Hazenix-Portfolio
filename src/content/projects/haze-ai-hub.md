@@ -12,7 +12,7 @@ tech:
   - "SSE"
   - "DashScope"
 links:
-  github: "https://github.com/Hazehacker/haze-AI-Hub"
+  github: "https://github.com/Hazenix/Haze-AI-Hub"
   demo: ""
 weight: 3
 current: true

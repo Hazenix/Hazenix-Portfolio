@@ -12,7 +12,7 @@ tech:
   - "WebSocket"
   - "OSS"
 links:
-  github: "https://github.com/Hazehacker/blog.hazenix.top"
+  github: "https://github.com/Hazenix/blog.hazenix.top"
   demo: "https://blog.hazenix.top"
 weight: 1
 current: true

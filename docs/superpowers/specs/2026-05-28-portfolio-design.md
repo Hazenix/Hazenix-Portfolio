@@ -82,7 +82,7 @@ tech:
   - "RAG"
   - "SSE"
 links:
-  github: "https://github.com/Hazehacker/haze-AI-Hub"
+  github: "https://github.com/Hazenix/Haze-AI-Hub"
   demo: ""
 weight: 1
 current: true
@@ -124,7 +124,7 @@ current: true
   "title": "Backend Developer & Builder",
   "description": "专注于后端工程与 AI 应用开发...",
   "contact": {
-    "github": "https://github.com/Hazehacker",
+    "github": "https://github.com/Hazenix",
     "email": "...",
     "blog": "https://blog.hazenix.top"
   }

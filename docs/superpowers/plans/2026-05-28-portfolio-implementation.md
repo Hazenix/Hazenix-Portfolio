@@ -239,7 +239,7 @@ git commit -m "chore: configure Astro static output and Tailwind base styles"
   "title": "Backend Developer & Builder",
   "description": "专注于后端工程与 AI 应用开发，热爱构建可扩展的系统。相信好的架构经得起时间考验。",
   "contact": {
-    "github": "https://github.com/Hazehacker",
+    "github": "https://github.com/Hazenix",
     "email": "hazehacker@example.com",
     "blog": "https://blog.hazenix.top"
   }
@@ -309,7 +309,7 @@ tech:
   - "SSE"
   - "DashScope"
 links:
-  github: "https://github.com/Hazehacker/haze-AI-Hub"
+  github: "https://github.com/Hazenix/Haze-AI-Hub"
   demo: ""
 weight: 1
 current: true
@@ -350,7 +350,7 @@ tech:
   - "Prompt Engineering"
   - "RAG"
 links:
-  github: "https://github.com/Hazehacker/java-backend-interview-simulator"
+  github: "https://github.com/Hazenix/backend-interview-simulator"
   demo: ""
 weight: 2
 current: true
@@ -392,7 +392,7 @@ tech:
   - "WebSocket"
   - "OSS"
 links:
-  github: "https://github.com/Hazehacker/blog.hazenix.top"
+  github: "https://github.com/Hazenix/blog.hazenix.top"
   demo: "https://blog.hazenix.top"
 weight: 3
 current: true
